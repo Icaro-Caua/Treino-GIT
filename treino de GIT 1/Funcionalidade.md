@@ -1,0 +1,1 @@
+Aqui será adicionado uma nova função ao Projeto GIT
